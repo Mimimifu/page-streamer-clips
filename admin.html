@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin - Gerenciar Clipes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🔧 Painel do Streamer</h1>
+            <p>Gerencie seus clipes</p>
+        </header>
+
+        <div class="admin-panel">
+            <div class="form-section">
+                <h2>Adicionar Novo Clipe</h2>
+                <form id="clipForm">
+                    <input type="text" id="title" placeholder="Título do clipe" required>
+                    <input type="text" id="game" placeholder="Jogo/Categoria" required>
+                    <input type="url" id="videoUrl" placeholder="URL do vídeo (YouTube/Twitch)" required>
+                    <textarea id="description" placeholder="Descrição do clipe"></textarea>
+                    <input type="text" id="date" placeholder="Data (ex: 15/01/2024)" required>
+                    <button type="submit">➕ Adicionar Clipe</button>
+                </form>
+            </div>
+
+            <div class="clips-list">
+                <h2>Clipes Cadastrados</h2>
+                <div id="adminClipsList"></div>
+            </div>
+
+            <div class="export-section">
+                <button id="exportJson" class="btn-export">📥 Exportar JSON</button>
+                <button id="downloadBackup" class="btn-backup">💾 Baixar Backup</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="admin.js"></script>
+</body>
+</html>
