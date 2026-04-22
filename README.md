@@ -1,7 +1,7 @@
 # page-streamer-clips
 Projeto para git pages vercel anywhere ...
 
-
+GUIA de instalação e configuração : [Acessar](GUIDE.md) 
 
 
 ## 📁 Estrutura do Projeto
