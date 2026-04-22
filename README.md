@@ -1,7 +1,55 @@
 # page-streamer-clips
 Projeto para git pages vercel anywhere ...
 
-GUIA de instalação e configuração : [Acessar](GUIDE.md) 
+# 🎓 Guia Definitivo: Como Hospedar Seu Projeto de Clipes Gratuitamente
+
+**Autor:** Streamer Tech Guide  
+**Data:** Abril 2026  
+**Plataformas:** GitHub Pages, Vercel, Netlify, Cloudflare Pages, Render, Tencent EdgeOne  
+**Nível:** Iniciante a Intermediário
+
+---
+
+## 📋 Sumário
+
+1. [Preparação do Projeto](README.md#preparação)
+2. [GitHub Pages (Recomendado para Iniciantes)](GUIDE.md#github-pages)
+3. [Vercel (Melhor para Performance)](GUIDE.md#vercel)
+4. [Netlify (Mais Recursos Gratuitos)](GUIDE.md#netlify)
+5. [Cloudflare Pages (Mais Rápido Globalmente)](GUIDE.md#cloudflare)
+6. [Render (Backend + Frontend)](GUIDE.md#render)
+7. [Tencent EdgeOne (Para Audiência Asiática)](GUIDE.md#tencent)
+8. [Comparativo de Plataformas](GUIDE.md#comparativo)
+9. [Dicas e Troubleshooting](GUIDE.md#dicas)
+
+---
+
+## 🚀 Pré-requisitos <a id="preparacao"></a>
+
+### Antes de começar, você precisa:
+
+```bash
+# 1. Estrutura do projeto pronta
+streamer-clips/
+├── index.html
+├── admin.html
+├── style.css
+├── script.js
+├── admin.js
+└── clips.json
+
+# 2. Contas criadas (gratuitas)
+- GitHub: https://github.com
+- Opcional: Vercel, Netlify, etc.
+
+# 3. Git instalado (opcional, mas recomendado)
+Windows: https://git-scm.com/download/win
+Mac: brew install git
+Linux: sudo apt install git
+
+```
+## GUIA completo aqui de instalação e configuração
+- [Guia Completa Acessar](GUIDE.md) 
 
 
 ## 📁 Estrutura do Projeto
