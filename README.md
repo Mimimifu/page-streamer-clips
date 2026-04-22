@@ -1,7 +1,4 @@
-# page-streamer-clips
-Projeto para git pages vercel anywhere ...
-
-# 🎓 Guia Definitivo: Como Hospedar Seu Projeto de Clipes Gratuitamente
+# 🎓 Guia Definitivo: Como Hospedar Seu Projeto de Clipes Gratuitamente e 
 
 **Autor:** Streamer Tech Guide  
 **Data:** Abril 2026  
