@@ -24,5 +24,907 @@
     "description": "Canal de Ciência ! As vezes é legal ver ! ",
     "date": "14/02/2026",
     "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779581,
+    "title": "MANUAL DO MUNDO - Experimentos e Ciência Divertida",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@manualdomundo",
+    "description": "Experimentos científicos feitos de forma didática, divertida e acessível para todas as idades. Física e química na prática!",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779582,
+    "title": "NERDOLOGIA - Ciência e Cultura Pop Explicadas",
+    "game": "Entretenimento",
+    "videoUrl": "https://www.youtube.com/@Nerdologia",
+    "description": "Análise científica, histórica e 'nerd' de diversos aspectos da cultura pop, tecnologia e comportamento humano.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779583,
+    "title": "VERITASIUM - Física e Experimentos Científicos",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@veritasium",
+    "description": "Explora conceitos científicos avançados de forma simples, com experimentos interessantes e produção impecável.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779584,
+    "title": "SCISHOW - Atualidades Científicas",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@SciShow",
+    "description": "Cobertura de vários campos científicos, como biologia e química, reportando os avanços mais recentes de forma clara.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779585,
+    "title": "KURZGESAGT - Ciência Animada em Detalhes",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@kurzgesagt",
+    "description": "Vídeos animados e bem pesquisados sobre temas complexos, de buracos negros a aquecimento global. Todas as fontes são citadas.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779586,
+    "title": "VSAUCE - Curiosidades e Comportamento Humano",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@Vsauce",
+    "description": "Aborda questões curiosas e instigantes sobre o mundo, a ciência e o comportamento humano.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779587,
+    "title": "TECHNOLOGY CONNECTIONS - Tecnologia do Cotidiano",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@TechnologyConnections",
+    "description": "Análise profunda e apaixonada sobre tecnologias do cotidiano, mostrando a engenhosidade por trás de eletrodomésticos e engenhocas.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779588,
+    "title": "3BLUE1BROWN - Matemática Visual e Intuitiva",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@3blue1brown",
+    "description": "Aborda conceitos matemáticos de forma intuitiva e visual, ajudando a entender a 'beleza' por trás dos números.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779589,
+    "title": "FABIO AKITA - Tecnologia e Programação",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@FabioAkita1990",
+    "description": "Discute ciência da computação e tecnologia de forma didática para um público geral, além de temas mais técnicos para programadores.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779590,
+    "title": "LEMMiNO - Mistérios e Casos Bizarros",
+    "game": "Entretenimento",
+    "videoUrl": "https://www.youtube.com/@LEMMiNO",
+    "description": "Vídeos de alta qualidade e com profundidade de pesquisa sobre casos bizarros, assassinatos famosos e mistérios.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779591,
+    "title": "PRIMITIVE TECHNOLOGY - Tecnologia sem Ferramentas Modernas",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@primitivetechnology",
+    "description": "Canal 'sem palavras' que mostra a construção de tecnologias do zero, na natureza, sem ferramentas modernas.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779592,
+    "title": "MY MECHANICS - Restaurações Relaxantes",
+    "game": "Entretenimento",
+    "videoUrl": "https://www.youtube.com/@my mechanics",
+    "description": "Restaurações extremamente cuidadosas de objetos antigos e enferrujados, um verdadeiro 'ASMR' para amantes de manufatura.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779593,
+    "title": "JUXTOPPOSED - Design de Interfaces",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@juxtopposed",
+    "description": "Fala sobre design de interfaces (UI/UX) e redesinha apps famosos, explicando como as escolhas de design afetam os usuários.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779594,
+    "title": "CLEO ABRAM - Tecnologia e Inovação",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@cleoabram",
+    "description": "Jornalista que produz vídeos explicando momentos importantes e promissores da tecnologia, com uma abordagem otimista e clara.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779595,
+    "title": "GAME MAKER'S TOOLKIT - Design de Jogos",
+    "game": "Entretenimento",
+    "videoUrl": "https://www.youtube.com/@GMTK",
+    "description": "Analisa mecânicas de design de jogos, com lições que podem ser aplicadas em outras áreas, como UX e engenharia.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779596,
+    "title": "THE SCHOOL OF LIFE - Filosofia e Psicologia",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@theschooloflifetv",
+    "description": "Aborda questões da existência humana, como relacionamentos, autoconhecimento e emoções, por meio da filosofia e psicologia.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779597,
+    "title": "RAFAEL GRETTA - Foco e Saúde Mental",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@rafaelgretta",
+    "description": "Traz reflexões sobre foco, ansiedade e a busca por 'dopamina real', com explicações baseadas na ciência.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779598,
+    "title": "TED TALKS - Ideias Inovadoras",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@TED",
+    "description": "Palestras curtas e poderosas com especialistas e pensadores de diversas áreas, compartilhando ideias inovadoras.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779599,
+    "title": "CANAL DO PIRULLA - Biologia e Evolução",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@pirulla",
+    "description": "Aborda ciência, com foco em biologia e evolução, desmistificando pseudociências de forma clara e direta.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779600,
+    "title": "PROF. DANIEL GONTIJO - Psicologia e Fé",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@DanielGontijo",
+    "description": "Discute psicologia, fé e religiões sob uma perspectiva analítica e científica.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779601,
+    "title": "ME POUPE! - Finanças Pessoais",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@MePoupe",
+    "description": "Ensina finanças pessoais de forma acessível, divertida e descomplicada, com a jornalista Nathalia Arcuri.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779602,
+    "title": "HOW MONEY WORKS - Economia do Cotidiano",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@HowMoneyWorks",
+    "description": "Explica fenômenos da economia e finanças por meio de eventos observáveis do cotidiano, de forma muito didática.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779603,
+    "title": "CONQUER BUSINESS SCHOOL - Carreira e Produtividade",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@conquercbs",
+    "description": "Canal voltado para desenvolvimento pessoal, produtividade, liderança e estratégias de carreira.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779604,
+    "title": "CORRE DE PHD - Vida Acadêmica",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@corredephd",
+    "description": "Canal focado em ajudar estudantes e acadêmicos a manter o foco, estudar melhor e navegar pela vida universitária.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779605,
+    "title": "GAVETA - Cinema e Edição de Vídeo",
+    "game": "Entretenimento",
+    "videoUrl": "https://www.youtube.com/@gaveta",
+    "description": "Canal sobre cinema e edição de vídeo, analisando técnicas e a produção por trás das câmeras.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779606,
+    "title": "GAMERA - Análises de Games",
+    "game": "Entretenimento",
+    "videoUrl": "https://www.youtube.com/@Gamera",
+    "description": "Produz ótimos vídeos para o público gamer, com análises aprofundadas de jogos e da indústria.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779607,
+    "title": "J.J. MCCULLOUGH - Cultura Norte-Americana",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@JJMcCullough",
+    "description": "Jornalista que faz análises sobre a cultura americana e canadense, ajudando a entender a política e a cultura pop da América do Norte.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779608,
+    "title": "QUADRO EM BRANCO - Análise de Obras",
+    "game": "Entretenimento",
+    "videoUrl": "https://www.youtube.com/@quadroembranco",
+    "description": "Apresenta análises aprofundadas de obras da cultura pop (animes, filmes, séries) de forma crítica e reflexiva.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779609,
+    "title": "LEVI HILDEBRAND - Psicologia do Consumo",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@LeviHildebrand",
+    "description": "Fala sobre psicologia do consumo e como as marcas influenciam nosso comportamento, com análises interessantes.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779610,
+    "title": "DYLLAN JOHNNY - Artes e Estilo de Vida",
+    "game": "Entretenimento",
+    "videoUrl": "https://www.youtube.com/@dyllanjohnny",
+    "description": "Canal eclético que mistura artes, estudos, leituras e reflexões sobre uma vida mais leve e presente.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779611,
+    "title": "CIÊNCIA TODO DIA - Física e Astronomia",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@cienciatododia",
+    "description": "Canal brasileiro que explica física, astronomia e ciência em geral de forma leve e acessível.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779612,
+    "title": "SPACE TODAY - Exploração Espacial",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@SpaceToday",
+    "description": "Notícias e atualizações diárias sobre exploração espacial, foguetes e descobertas astronômicas.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779613,
+    "title": "HISTÓRIA EM MEIA HORA - História Resumida",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@historiaemmeiahora",
+    "description": "Vídeos rápidos e informativos sobre os principais eventos históricos do mundo.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779614,
+    "title": "CRASH COURSE - Cursos Rápidos",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@crashcourse",
+    "description": "Séries educativas sobre história, ciência, literatura, economia e muito mais, com animações envolventes.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779615,
+    "title": "PIPOCA & NERD - Cinema e Cultura Geek",
+    "game": "Entretenimento",
+    "videoUrl": "https://www.youtube.com/@pipocaenerd",
+    "description": "Análises de filmes, séries e cultura pop com um toque de humor e críticas inteligentes.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779616,
+    "title": "CIÊNCIA FLORESTAL - Biologia e Natureza",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@cienciaflorestal",
+    "description": "Explora a biologia, ecologia e curiosidades sobre o mundo natural e os animais.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779617,
+    "title": "METEORO - Ciência e Filosofia",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@meteoro",
+    "description": "Canal que une ciência e filosofia para refletir sobre temas profundos e existenciais.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779618,
+    "title": "INCRÍVEL - Curiosidades e Listas",
+    "game": "Entretenimento",
+    "videoUrl": "https://www.youtube.com/@incrivel",
+    "description": "Vídeos com curiosidades, listas e fatos interessantes sobre diversos temas do cotidiano.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779619,
+    "title": "ECONÔMICO S.A. - Economia Brasileira",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@economico SA",
+    "description": "Análise da economia brasileira e mundial de forma clara e descomplicada para o cidadão comum.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779620,
+    "title": "HISTÓRIA PÚBLICA - História e Sociedade",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@historiapublica",
+    "description": "Vídeos sobre história, política e sociedade, com uma abordagem crítica e acessível.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779621,
+    "title": "TECNOLOGIA E GAMES - Inovação e Jogos",
+    "game": "Entretenimento",
+    "videoUrl": "https://www.youtube.com/@tecnologiaegames",
+    "description": "Canal sobre as últimas novidades em tecnologia, games e inovação digital.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779622,
+    "title": "SAÚDE E BEM-ESTAR - Qualidade de Vida",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@saudebemestar",
+    "description": "Dicas e informações sobre saúde, nutrição, exercícios e bem-estar geral baseados em ciência.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779623,
+    "title": "DOCUMENTÁRIOS ONLINE - Conteúdo Premium",
+    "game": "Entretenimento",
+    "videoUrl": "https://www.youtube.com/@documentarios online",
+    "description": "Seleção de documentários completos sobre história, natureza, ciência e cultura.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779624,
+    "title": "MINUTO DA FÍSICA - Explicações Rápidas",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@minutodafisica",
+    "description": "Vídeos curtos explicando fenômenos físicos do dia a dia de maneira simples e direta.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779625,
+    "title": "PLANETA BIOLOGIA - Vida e Evolução",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@planetabiologia",
+    "description": "Canal dedicado à biologia, ecologia e evolução, com conteúdo para curiosos e estudantes.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779626,
+    "title": "MENTES INQUIETAS - Ciência e Conhecimento",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@mentesinquietas",
+    "description": "Aborda ciência, filosofia e tecnologia para mentes curiosas que buscam entender o mundo.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779627,
+    "title": "HACKER CULTURAL - Tecnologia e Sociedade",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@hackercultural",
+    "description": "Análise crítica da relação entre tecnologia, cultura e sociedade na era digital.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779628,
+    "title": "MUNDO DE GEEK - Cultura Nerd e Geek",
+    "game": "Entretenimento",
+    "videoUrl": "https://www.youtube.com/@mundodegeek",
+    "description": "Canal sobre cultura nerd, filmes, séries, quadrinhos e games.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779629,
+    "title": "FÍSICA BRASIL - Ensino de Física",
+    "game": "Ciencia",
+    "videoUrl": "https://www.youtube.com/@fisicabrasil",
+    "description": "Aulas e explicações de física para estudantes e entusiastas da ciência.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779630,
+    "title": "ESTUDAR FORA - Intercâmbio e Carreira",
+    "game": "Educativo",
+    "videoUrl": "https://www.youtube.com/@estudarfora",
+    "description": "Dicas sobre intercâmbio, estudo no exterior e carreiras internacionais.",
+    "date": "15/03/2026",
+    "platform": "YouTube 🎬"
+  },
+  {
+    "id": 1785169779631,
+    "title": "PIRATE SOFTWARE - Game Dev e Segurança",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/piratesoftware",
+    "description": "Jason Thor Hall, ex-Blizzard e Amazon, desenvolve jogos indie como Heartbound e compartilha conhecimento sobre game dev e segurança da informação [citation:12].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779632,
+    "title": "HANDMADE HERO - C/C++ do Zero",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/handmade_hero",
+    "description": "Casey Muratori desenvolve um jogo e engine completos do zero, uma hora por dia. Referência para quem quer aprender programação de baixo nível [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779633,
+    "title": "NOTHINGS - C e Otimização",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/nothings2",
+    "description": "Sean Barrett, criador das bibliotecas STB, streama projetos em C como um jogo de construção baseado em voxels [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779634,
+    "title": "PER VOGNSEN - Compiladores e Estruturas",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/vognsen",
+    "description": "Ex-Epic Games e atualmente na Oculus, streama sobre compiladores, estruturas de dados e editores de texto em C/C++ [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779635,
+    "title": "FERRIS STREAMS STUFF - Rust e Emuladores",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/ferrisstreamsstuff",
+    "description": "Desenvolvimento de um emulador de N64 em Rust. Ideal para quem quer ver Rust aplicado a projetos desafiadores [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779636,
+    "title": "SEANTHEPROGRAMMER - Rust e ORM",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/seantheprogrammer",
+    "description": "Sean Griffin, core team do Rails, desenvolve o Diesel, um ORM em Rust. Ótimo para ver desenvolvimento de bibliotecas open-source [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779637,
+    "title": "NAYSAYER88 - Linguagem JAI",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/naysayer88",
+    "description": "Jonathan Blow (Braid, The Witness) desenvolve a linguagem JAI para jogos, com streams esporádicos mostrando o progresso [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779638,
+    "title": "QUEL SOLAAR - C e Projetos Variados",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/quel_solaar",
+    "description": "Eskil Steenberg trabalha em uma infinidade de projetos em C, desde game dev até ferramentas e bibliotecas [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779639,
+    "title": "SSSMcGRATH - C/C++ e MOBA",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/sssmcgrath",
+    "description": "Shawn McGrath streama o desenvolvimento do seu jogo MOBA em C/C++ com um estilo descontraído e bem humorado [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779640,
+    "title": "MR4THDIMENSION - Editor 4coder",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/mr4thdimention",
+    "description": "Allen Webster desenvolve o editor de texto 4coder, usado por Casey Muratori no Handmade Hero [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779641,
+    "title": "DANIEL HE4RT - Basement Developers",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/danielhe4rt",
+    "description": "Daniel Reis, fundador da Basement Developers, streama código ao vivo diariamente e é uma referência na comunidade dev brasileira [citation:14].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779642,
+    "title": "BOOYAGRANDMMA - Game Dev Cozy",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/booyagrandmma",
+    "description": "Andrew, VFX professional há 16 anos e game dev indie há 13, desenvolve 'Alpine Lake', um Inn-Sim / Life-Sim em Tóquio [citation:11].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779643,
+    "title": "WANWANDEV - Game Dev em Inglês",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/wanwandev",
+    "description": "Sessões de desenvolvimento de jogos em inglês, com foco em projetos próprios. Streams regulares às terças e quintas [citation:1].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779644,
+    "title": "PW MUNIZ - Unity e Jogos 3D",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/pwmuniz",
+    "description": "Programador e criador do curso Aprenda Unity, desenvolve um jogo de mundo aberto inspirado em Zelda [citation:8].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779645,
+    "title": "MELLOW_LIVE - Godot em Francês",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/melloow_live",
+    "description": "Desenvolvedor profissional explorando game dev com Godot. Streams em francês sobre design e desenvolvimento de jogos [citation:5].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779646,
+    "title": "WILLIAM CHYR - Manifold Garden",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/williamchyr",
+    "description": "William Chyr desenvolve Manifold Garden, um jogo de quebra-cabeça em um universo impossível [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779647,
+    "title": "GAEARON - React e JavaScript",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/gaearon",
+    "description": "Dan Abramov, co-criador do Redux e da equipe do React, streama sobre desenvolvimento front-end [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779648,
+    "title": "QUILL18 - Unity e Tutoriais",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.youtube.com/user/quill18creates",
+    "description": "Conteúdo focado em Unity e game dev, com tutoriais e projetos divertidos para aprender na prática [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779649,
+    "title": "JOEL DA SILVA - Desenvolvimento Web",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/joeldasilva",
+    "description": "Joel da Silva, da Rocketseat, streama desenvolvimento web, carreira e comunidade dev.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779650,
+    "title": "CODERADIO - Música e Código",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/coderadio",
+    "description": "Stream de programação com música lo-fi, ideal para momentos de foco e produtividade.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779651,
+    "title": "LIVECODING.TV - Plataforma Alternativa",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.livecoding.tv",
+    "description": "Plataforma dedicada exclusivamente à programação ao vivo, com streams de várias linguagens [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779652,
+    "title": "TWITCH CREATIVE - Programação",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/directory/game/Creative",
+    "description": "Categoria da Twitch que reúne streams criativos, incluindo programação e desenvolvimento [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779653,
+    "title": "TWITCH DEV - Oficial Twitch",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/twitchdev",
+    "description": "Canal oficial da Twitch para desenvolvedores, com novidades sobre APIs e ferramentas da plataforma [citation:7].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779654,
+    "title": "WATCHPEOPLECODE - Agregador",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.watchpeoplecode.com",
+    "description": "Agregador de streams de programação ao vivo, facilitando encontrar conteúdo de qualidade [citation:3].",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779655,
+    "title": "THEPRIMAGEN - Desenvolvimento de Jogos",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/theprimagen",
+    "description": "Streams focados em desenvolvimento de jogos e programação, com uma comunidade ativa e engajada.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779656,
+    "title": "CLAUDE DÉMERS - IA e Desenvolvimento",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/claudedemers",
+    "description": "Explora inteligência artificial e desenvolvimento de software, com projetos práticos e discussões teóricas.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779657,
+    "title": "KARASUMY - Game Dev e Arte",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/karasumy",
+    "description": "Desenvolvimento de jogos com foco em arte e design, mostrando o processo criativo completo.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779658,
+    "title": "SLOBS - Streamlabs Desktop",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/slobs",
+    "description": "Desenvolvimento de ferramentas para streaming, como o Streamlabs Desktop e plugins.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779659,
+    "title": "NUBANK DEVS - Fintech e Código",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/nubankdevs",
+    "description": "Engenheiros do Nubank mostram o desenvolvimento de sistemas bancários e fintechs.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779660,
+    "title": "CODINGGARDEN - JavaScript e CSS",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/codinggarden",
+    "description": "Desenvolvimento web com JavaScript, CSS e ferramentas modernas, com uma pegada educativa.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779661,
+    "title": "DEVELOPERS BR - Comunidade",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/developersbr",
+    "description": "Comunidade brasileira de desenvolvedores com streams de programação, carreira e tecnologia.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779662,
+    "title": "HACKERMANS - Cybersecurity",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/hackermans",
+    "description": "Streams sobre hacking ético, segurança da informação e programação em Python e C.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779663,
+    "title": "CODE STREAMS - Diversidade",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/codestreams",
+    "description": "Canal colaborativo com diversos streamers programando em diferentes linguagens e projetos.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779664,
+    "title": "FRONTEND BR - Web e UI",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/frontendbr",
+    "description": "Focado em front-end, React, Vue, design systems e comunidade front-end brasileira.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779665,
+    "title": "GAMEDEV BR - Jogos",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/gamedevbr",
+    "description": "Comunidade brasileira de desenvolvedores de jogos com streams de Unity, Unreal e Godot.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779666,
+    "title": "PYTHON BR - Python",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/pythonbr",
+    "description": "Programação em Python, ciência de dados, automação e desenvolvimento web com Django.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779667,
+    "title": "RUST BR - Rust",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/rustbr",
+    "description": "Comunidade brasileira de Rust com streams sobre a linguagem e projetos open-source.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779668,
+    "title": "GOLANG BR - Go",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/golangbr",
+    "description": "Desenvolvimento com Golang, microsserviços, cloud e projetos de alta performance.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779669,
+    "title": "JAVA BR - Java",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/javabr",
+    "description": "Programação Java, Spring Boot, arquitetura e projetos empresariais.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779670,
+    "title": "C# BR - C# e .NET",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/csharpoff",
+    "description": "Desenvolvimento com C#, .NET, Unity e jogos.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779671,
+    "title": "DEVS IN SPACE - Astronomia e Código",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/devsinspace",
+    "description": "Programadores e entusiastas do espaço desenvolvem projetos relacionados à astronomia.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779672,
+    "title": "CODE AND COFFEE - Programação",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/codeandcoffee",
+    "description": "Ambiente descontraído para programar junto com a comunidade, tomando café.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779673,
+    "title": "LIVE CODERS - Ao Vivo",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/livecoders",
+    "description": "Streamers de programação de diversas áreas e linguagens, sempre ao vivo.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779674,
+    "title": "OPEN SOURCE - Contribuições",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/opensource",
+    "description": "Desenvolvedores contribuindo para projetos open-source ao vivo.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779675,
+    "title": "CLEAN CODE BR - Qualidade",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/cleancodebr",
+    "description": "Boas práticas de programação, clean code, arquitetura e refatoração.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779676,
+    "title": "DEVOPS BR - Infraestrutura",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/devopsbr",
+    "description": "DevOps, CI/CD, Kubernetes, Docker e infraestrutura como código.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779677,
+    "title": "DATA SCIENCE BR - Dados",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/datasciencebr",
+    "description": "Ciência de dados, machine learning, Python e análise de dados.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779678,
+    "title": "MOBILE BR - Apps Mobile",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/mobilebr",
+    "description": "Desenvolvimento mobile com Flutter, React Native, Swift e Kotlin.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779679,
+    "title": "CLOUD BR - AWS e GCP",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/cloudbr",
+    "description": "Cloud computing, AWS, Google Cloud, Azure e arquitetura em nuvem.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
+  },
+  {
+    "id": 1785169779680,
+    "title": "ALGORITMOS BR - Lógica",
+    "game": "Desenvolvimento",
+    "videoUrl": "https://www.twitch.tv/algoritmosbr",
+    "description": "Estudo de algoritmos, estruturas de dados e resolução de problemas.",
+    "date": "27/07/2026",
+    "platform": "Twitch 🟣"
   }
+
+  
 ]
